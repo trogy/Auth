@@ -2,7 +2,8 @@
 Authentication Class.
 A Part of the Trogy.NZ Framework
 
-Requires\ 
+##### Requires
+
 Spomky-Labs / otphp\
 PDO\
 advename/Simple-PHP-Logger\
