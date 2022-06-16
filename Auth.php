@@ -9,7 +9,7 @@ namespace TGNZ;
 use \PDO;
 use Logger;
 use OTPHP\TOTP;
-logger::info('Loading!');
+logger::info('Auth is Loading!');
 class Auth{
     /*-----------------------------------------------------
     TGNZ Auth
