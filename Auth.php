@@ -80,7 +80,7 @@ class Auth{
             //USERNAME ERROR
             $this->Error = "Username or Password Error";
             $this->Login_Status = false;
-            return $this->Login_Status;
+            return $this;
 
         }
     }
